@@ -13,3 +13,4 @@ O-current_working_directory -> prints the absolute path from shell
 11-lists -> lists files in current dir, parent directory and /boot directory
 12-file_type -> shows the type of file
 13-symbolic_link -> create a sym link
+14-copy_html -> copy html files from current dir to parent_dir
