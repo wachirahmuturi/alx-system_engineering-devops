@@ -6,3 +6,4 @@ O-current_working_directory -> prints the absolute path from shell
 4-listmorefiles -> list even hidden files in long format
 5-listfilesdigitonly -> list files in current dir 
 6-firstdirectory -> creates a directory within tmp/ folder
+7-movethatfile -> moves a file Betty into a directory created by script 6-firstdirectory
