@@ -14,3 +14,4 @@ O-current_working_directory -> prints the absolute path from shell
 12-file_type -> shows the type of file
 13-symbolic_link -> create a sym link
 14-copy_html -> copy html files from current dir to parent_dir
+100-lets_move -> moves only filenames beginning with uppercase letters
