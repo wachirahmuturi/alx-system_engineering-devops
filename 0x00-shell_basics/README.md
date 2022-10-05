@@ -12,3 +12,4 @@ O-current_working_directory -> prints the absolute path from shell
 10-back -> moves back to the previous directory
 11-lists -> lists files in current dir, parent directory and /boot directory
 12-file_type -> shows the type of file
+13-symbolic_link -> create a sym link
